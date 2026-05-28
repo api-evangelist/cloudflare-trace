@@ -1,0 +1,32 @@
+aid: cloudflare-trace
+name: Cloudflare Trace
+description: "Get IP Address, Timestamp, User Agent, Country Code, IATA, HTTP Version, TLS/SSL Version & More"
+url: https://github.com/fawazahmed0/cloudflare-trace-api
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Development"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Development
+  - Public APIs
+apis:
+  - name: Cloudflare Trace
+    description: "Get IP Address, Timestamp, User Agent, Country Code, IATA, HTTP Version, TLS/SSL Version & More"
+    humanURL: https://github.com/fawazahmed0/cloudflare-trace-api
+    baseURL: https://github.com/fawazahmed0/cloudflare-trace-api
+    tags:
+      - Development
+    properties:
+      - type: Documentation
+        url: https://github.com/fawazahmed0/cloudflare-trace-api
+common:
+  - type: Website
+    url: https://github.com/fawazahmed0/cloudflare-trace-api
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
