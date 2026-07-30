@@ -1,4 +1,16 @@
 aid: cloudflare-trace
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/cloudflare-trace.png
 name: Cloudflare Trace
 description: "Get IP Address, Timestamp, User Agent, Country Code, IATA, HTTP Version, TLS/SSL Version & More"
 url: https://github.com/fawazahmed0/cloudflare-trace-api
