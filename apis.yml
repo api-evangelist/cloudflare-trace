@@ -39,7 +39,6 @@ apis:
   - name: Cloudflare Trace
     description: "Get IP Address, Timestamp, User Agent, Country Code, IATA, HTTP Version, TLS/SSL Version & More"
     humanURL: https://github.com/fawazahmed0/cloudflare-trace-api
-    baseURL: https://github.com/fawazahmed0/cloudflare-trace-api
     tags:
       - Development
     properties:
